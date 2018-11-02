@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Result>
+  <Error code="110">
+    <MessageEn>TestMessage</MessageEn>
+    <MessageAr>رسالة اختبار</MessageAr>
+  </Error> 
+</Result>
